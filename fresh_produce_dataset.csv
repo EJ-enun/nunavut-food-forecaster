@@ -1,0 +1,23 @@
+product_type_beef,price_per_one_kg_beef,location_beef,produce_lifetime_days_beef,product_type_dairy,price_per_litre_kg,location_dairy,produce_lifetime_days_dairy,product_type_fruit,price_per_kg_fruit,location_fruit,produce_lifetime_days_fruit,product_type_grain,price_per_bushel_grain,location_grain,produce_lifetime_days_grain,product_type_vegetables,price_per_kg_vegetables,location_vegetables,produce_lifetime_days_vegetables
+bacon,7.25,alberta,7,chicken egg,1.45,quebec,14,apple,4,quebec,7,barley,3.65,manitoba,30,artichoke,10.4,saskatchewan,2
+blade roast,18.49,alberta,5,milk,0.75,quebec,7,apricot,4.38,quebec,4,canola,9.98,manitoba,30,asparagus,4.5,saskatchewan,2
+broiler chicken,7.41,alberta,2,,,,,avocado,1,quebec,4,corn,3.9,manitoba,30,garlic,6,saskatchewan,7
+ground beef,12.5,alberta,5,,,,,banana,1.56,quebec,2,flaxseed,12.73,manitoba,30,green beans,8,saskatchewan,6
+pork chops,12.39,quebec,5,,,,,blueberry,10,quebec,6,oats,3.03,,30,beets,1,saskatchewan,7
+prime rib roast,37.09,alberta,5,,,,,cherries,9,quebec,2,peas,6.04,,30,bell pepper,4,saskatchewan,7
+round steak,18.39,alberta,5,,,,,cranberry,2,quebec,6,soybean,10.13,,30,broccoli,2,saskatchewan,2
+sirloin steak,24.45,alberta,5,,,,,grapefruit,4.28,quebec,6,wheat,6.04,,30,brussel sprouts,7,saskatchewan,6
+stewing beef,18.31,alberta,5,,,,,grapes,4,quebec,4,,,,,cabbage,2.25,saskatchewan,7
+wieners,4.47,,7,,,,,guava,4.36,quebec,9,,,,,carrots,1,saskatchewan,7
+,,,,,,,,orange,4.26,quebec,6,,,,,cauliflower,7,saskatchewan,6
+,,,,,,,,papaya,3.24,quebec,7,,,,,celery,6,saskatchewan,7
+,,,,,,,,peach,2,quebec,6,,,,,cucmber,2,saskatchewan,4
+,,,,,,,,pear,4,quebec,6,,,,,kale,12,saskatchewan,7
+,,,,,,,,Pineapple,,,4,,,,,lettuce,3.65,saskatchewan,4
+,,,,,,,,Plum,,,6,,,,,onion,1,saskatchewan,7
+,,,,,,,,Pomegranate,,,,,,,,parsnip,6,saskatchewan,7
+,,,,,,,,Pumpkin,,,,,,,,potato,3.75,saskatchewan,7
+,,,,,,,,Raspberry,,,,,,,,spinach,10,saskatchewan,7
+,,,,,,,,Strawberry,,,2,,,,,tomato,2,saskatchewan,6
+,,,,,,,,Watermelon,,,6,,,,,,,saskatchewan,6
+,,,,,,,,,,,,,,,,,,saskatchewan,4
